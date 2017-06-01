@@ -205,16 +205,16 @@ function addComments() {
 	document.getElementById("flag5").innerHTML = "<img src='img/flags/" + Math.floor(Math.random() * (51 - 1) + 1) + ".png'>";
 	document.getElementById("flag4").innerHTML = "<img src='img/flags/" + Math.floor(Math.random() * (51 - 1) + 1) + ".png'>";
 
-	document.getElementById("generatedResources1").innerHTML = "generated " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
+	document.getElementById("generatedResources1").innerHTML = "gerou " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
 		" gems & " + Math.floor(Math.random() * (999999 - 799999) + 799999) + " gold & " +
 		Math.floor(Math.random() * (999999 - 799999) + 799999) + " elixir.";
-	document.getElementById("generatedResources2").innerHTML = "generated " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
+	document.getElementById("generatedResources2").innerHTML = "gerou " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
 		" gems & " + Math.floor(Math.random() * (999999 - 799999) + 799999) + " gold & " +
 		Math.floor(Math.random() * (999999 - 799999) + 799999) + " elixir.";
-	document.getElementById("generatedResources3").innerHTML = "generated " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
+	document.getElementById("generatedResources3").innerHTML = "gerou " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
 		" gems & " + Math.floor(Math.random() * (999999 - 799999) + 799999) + " gold & " +
 		Math.floor(Math.random() * (999999 - 799999) + 799999) + " elixir.";
-	document.getElementById("generatedResources4").innerHTML = "generated " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
+	document.getElementById("generatedResources4").innerHTML = "gerou " + Math.floor(Math.random() * (99999 - 79999) + 79999) +
 		" gems & " + Math.floor(Math.random() * (999999 - 799999) + 799999) + " gold & " +
 		Math.floor(Math.random() * (999999 - 799999) + 799999) + " elixir.";
 }
